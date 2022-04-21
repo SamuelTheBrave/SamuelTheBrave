@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamuelTheBrave
-- 👀 I’m interested in a lot ogf things.
+- 👀 I’m interested in a lot of things.
 - 🌱 I’m currently learning html.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: via e-mail.
